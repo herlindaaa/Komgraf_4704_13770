@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1703994685 source:f:\komgraf\homework3\dda\main.cpp
+	<iostream>
+	<cmath>
+	<GL/glut.h>
+
